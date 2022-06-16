@@ -19,10 +19,15 @@ As a dedicated engineer and natural problem-solver, Matthew is actively searchin
 
 # CERTIFICATIONS
 **Docker Essentials** / IBM
+
 **IBM Cloud Essentials** / IBM
+
 **Containers & Kubernetes Essentials** / IBM
+
 **Data Analytics** / General Electric
+
 **+9 more...**
+
 [[Show Credentials]](https://www.linkedin.com/in/matthewdelgado2000/details/certifications/)
 
 # CONNECT WITH ME
