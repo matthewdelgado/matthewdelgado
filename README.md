@@ -32,9 +32,6 @@ As a dedicated engineer and natural problem-solver, Matthew is actively searchin
 [[Show Credentials]](https://www.linkedin.com/in/matthewdelgado2000/details/certifications/)
 
 # CONNECT WITH ME
-<a href="https://www.linkedin.com/in/matthewdelgado2000/">
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="mailto:mdelgado2020@my.fit.edu">
+<a href="https://linktr.ee/matthewdelgado">
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
