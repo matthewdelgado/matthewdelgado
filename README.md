@@ -36,7 +36,7 @@ As a dedicated engineer and natural problem-solver, Matthew is actively searchin
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
 <a href="http://matthewdelgado.github.io">
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/javascript.svg" />
 </a>
 <a href="https://github.com/matthewdelgado">
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
