@@ -32,15 +32,18 @@ As a dedicated engineer and natural problem-solver, Matthew is actively searchin
 [[Show Credentials]](https://www.linkedin.com/in/matthewdelgado2000/details/certifications/)
 
 # CONNECT WITH ME
-<a href="https://linktr.ee/matthewdelgado">
-  <img align="left" width="40px" src="https://commons.wikimedia.org/wiki/File:Linktree.svg" />
+<a href="https://www.linkedin.com/in/matthewdelgado2000/">
+  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
-<a href="https://linktr.ee/matthewdelgado">
+<a href="http://matthewdelgado.github.io">
+  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+</a>
+<a href="https://github.com/matthewdelgado">
+  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="mailto:mdelgado2020@my.fit.edu">
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://linktr.ee/matthewdelgado">
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://linktr.ee/matthewdelgado">
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linktree.svg" />
 </a>
