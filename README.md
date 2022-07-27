@@ -1,7 +1,7 @@
  $ whoami
 
 # ABOUT ME
-Matthew Delgado is a full-time student at the Florida Institute of Technology who is majoring in Computer Engineering. His studies focus on developing embedded systems and writing object-oriented programs in C/C++. 
+Matthew Delgado is a full-time student at the Florida Institute of Technology who is majoring in Computer Engineering. His studies focus on developing embedded systems and writing object-oriented programs in C++. 
 
 Matthew participates in multiple engineering organizations including the Institute of Electrical and Electronics Engineers and the Society of Hispanic Professional Engineers, and the American Institute of Aeronautics and Astronautics. 
 As a dedicated engineer and natural problem-solver, Matthew is actively searching for research and internship opportunities involving Software Engineering or Electrical Engineering.
