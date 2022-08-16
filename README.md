@@ -7,6 +7,8 @@ Matthew participates in multiple engineering organizations including the Institu
 As a dedicated engineer and natural problem-solver, Matthew is actively searching for research and internship opportunities involving Software Engineering or Electrical Engineering.
 
 # PROFESSIONAL EXPERIENCE
+**Up-Rev Inc.** / Software Engineer Intern
+
 **L3Harris Technologies** / Emebedded Software Engineer Intern
 * Developed software test procedures, software programs, and related documentation
 * Participated in analysis, design, implementation, integration, and test of embedded software
