@@ -8,6 +8,8 @@ As a dedicated engineer and natural problem-solver, Matthew is actively searchin
 
 # PROFESSIONAL EXPERIENCE
 **Up-Rev Inc.** / Software Engineer Intern
+* Full-Stack Web App Development.
+* HTML, SCSS, JavaScript, TypeScript, PHP, SQL, Angular.
 
 **L3Harris Technologies** / Emebedded Software Engineer Intern
 * Developed software test procedures, software programs, and related documentation
