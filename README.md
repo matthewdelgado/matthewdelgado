@@ -7,10 +7,20 @@ Matthew participates in multiple engineering organizations including the Institu
 As a dedicated engineer and natural problem-solver, Matthew is actively searching for research and internship opportunities involving Software Engineering or Electrical Engineering.
 
 # PROFESSIONAL EXPERIENCE
-**Up-Rev Inc.** / Software Engineer Intern
-* Full-Stack Web App Development.
-* HTML, SCSS, JavaScript, TypeScript, PHP, SQL, Angular.
+**Up-Rev Inc.** / Embedded Software Engineer - Internship
+* Maintained and improved an internal project cost tracker application used by project managers and senior engineers.	
+* Developed the first iteration of the app’s new and improved RESTful API in Python using FastAPI.
 
+**L3Harris Technologies** / AI/ML Software Engineer - Internship
+* Developed a Streamlit UI, written in Python, to allow users to interface with opensource large language models.
+* Provided detailed, data-driven case studies about AI’s relevance in the modern engineering workspace.
+* Coordinated the Agile tasking of six interns with Atlassian’s Jira and documented progress via Confluence.
+
+**Up-Rev Inc.** / Full-stack Software Engineer - Internship
+* Developed full-stack, cross-platform apps using Angular (HTML, SCSS, and TypeScript), MySQL, PHP, and Docker.	
+* Managed code deployment to local build servers and production environments, ensuring smooth releases.
+* Ran weekly status meetings to address bugs, design new features, and improve the existing codebase.
+  
 **L3Harris Technologies** / Emebedded Software Engineer Intern
 * Developed software test procedures, software programs, and related documentation
 * Participated in analysis, design, implementation, integration, and test of embedded software
@@ -19,8 +29,8 @@ As a dedicated engineer and natural problem-solver, Matthew is actively searchin
 * Evaluated EEG data in Python and developed an algorithm to maintain accuracy and portability of data
 
 **IBM** / Technical Solutions Engineer Intern
-* Participated in the design, build, test of workload migration phases for AIOps-based applications
-* Conducted three live demos of IBM's Watson AIOps software
+* Tested AI-for-IT based microservices workload migration phases on IBM Cloud using Kubernetes.
+* Collaborated with cross-functional teams and site reliability engineers to troubleshoot system performance issues.
 
 # CERTIFICATIONS
 **Docker Essentials** / IBM
