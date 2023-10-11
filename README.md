@@ -55,9 +55,3 @@ As a dedicated engineer and natural problem-solver, Matthew is actively searchin
 <a href="https://github.com/matthewdelgado">
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="mailto:mdelgado2020@my.fit.edu">
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://linktr.ee/matthewdelgado">
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linktree.svg" />
-</a>
