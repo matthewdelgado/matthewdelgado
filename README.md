@@ -25,8 +25,3 @@
 **Technical Solutions Engineer** / IBM / Internship
 * Tested AI-for-IT based microservices workload migration phases on IBM Cloud using Kubernetes.
 * Collaborated with cross-functional teams and site reliability engineers to troubleshoot system performance issues.
-
-# CONNECT WITH ME
-<a href="https://www.linkedin.com/in/matthewdelgado2000/">
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/>
-</a>
