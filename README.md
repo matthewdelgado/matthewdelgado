@@ -1,27 +1,86 @@
- $ whoami
-# PROFESSIONAL EXPERIENCE
-**Software Engineer (Embedded)** / L3Harris Technologies
-* Designed, implemented, maintained, and tested mission critical and support software packages in real-time Linux based environments and Windows based GUI environments.
-* Participated in a small team atmosphere to devise simple solutions to complex engineering problems independently and by consulting technical subject matter experts.
+# **MATTHEW DELGADO**                                                                       
 
-**Software Engineer (Full Stack)** / Up-Rev Inc / Internship
-* Maintained and developed a web application used by senior managers to estimate project costs.	
-* Converted the app’s PHP-based API to a python-based RESTful API using FastAPI.
+[LinkedIn](https://www.linkedin.com/in/mattdelg/) | [GitHub](https://github.com/matthewdelgado)  
+---
 
-**Software Engineer (AI/ML)** / L3Harris Technologies / Internship                  			          
-* Developed a Streamlit UI, written in Python, to allow users to interface with open source large language models.
-* Provided detailed, data-driven case studies about AI’s relevance in the modern engineering workspace.
-* Coordinated the Agile tasking of six interns with Atlassian’s Jira and documented progress via Confluence.
-  
-**Software Engineer (Full Stack)** / Up-Rev Inc / Internship
-* Developed full-stack, cross-platform apps using Angular (HTML, SCSS, and TypeScript), MySQL, PHP, and Docker.	
-* Managed code deployment to local build servers and production environments, ensuring smooth releases.
-* Ran weekly status meetings to address bugs, design new features, and improve the existing codebase.
+# **SKILLS**
 
-**Software Engineer (Embedded)** / L3Harris Technologies / Internship
-* Applied computer science principles in an Agile development framework to ensure quality and efficiency.
-* Implemented, integrated, and tested embedded software using Linux development environments.
+## **Languages & Frameworks**
 
-**Technical Solutions Engineer** / IBM / Internship
-* Tested AI-for-IT based microservices workload migration phases on IBM Cloud using Kubernetes.
-* Collaborated with cross-functional teams and site reliability engineers to troubleshoot system performance issues.
+C++ | Python | TypeScript | Node.js | PHP | HTML | SCSS | SQL
+
+## **Tools & Platforms**
+
+Conan | Docker | Git | Linux | Vim | FastAPI | Protobuf
+
+## **Databases & Cloud**
+
+MySQL | Firebase
+
+## **Other**
+
+Agile/Scrum (Jira) | CI/CD (Jenkins, Ansible)  
+---
+
+# **EXPERIENCE**
+
+## **Associate Software Engineer**                                   Feb 2024 – Present
+
+## L3Harris Technologies
+
+- Architect and develop real-time embedded software in C++ for mission-critical systems on Linux-based platforms, ensuring reliability and performance under strict deadlines.  
+- Led the design and implementation of five Python-based prototypes for prospective clients, collaborating cross-functionally to gather requirements and secure future funding.  
+- Improve code quality and maintainability through thorough testing, peer reviews, and automated pipelines, driving best practices that reduce defects and deployment time by 30%.
+
+## **Software Engineer Intern**                                    Jul 2023 – Jan 2024
+
+## Up-Rev Inc.
+
+- Maintained and enhanced a production web application used by senior managers for cost estimation, improving usability and performance to sustain high user satisfaction.  
+- Refactored the backend from a legacy PHP API to a Python-based RESTful API using FastAPI, boosting data processing speed by 25% and enabling broader system integrations.  
+- Created cross-platform, full-stack solutions using Angular, MySQL, PHP, and Docker, emphasizing responsive, user-centric design.  
+- Optimized CI/CD workflows through Jenkins and Ansible automation, cutting deployment times by 40% and minimizing downtime for business-critical services.
+
+## **Software Engineer Intern**                                    May 2023 – Jul 2023
+
+## L3Harris Technologies
+
+- Developed a Streamlit-based web application that interfaced with open-source large language models and incorporated internal data for better accuracy and AI-driven insights.  
+- Supervised an Agile project management workflow for a team of six interns, facilitating Jira-based sprint planning, tasks, and documentation to foster collaboration and timely deliverables.  
+- Actively researched and presented emerging AI technologies to stakeholders, championing new use cases for AI adoption within the organization.
+
+---
+
+# **PROJECTS**
+
+## **Project Management Web App**
+
+## Angular 8, Docker, PHP, MySQL
+
+- Built a full-stack application to estimate project costs and generate quotes/proposals, reducing manual effort by 50%.  
+- Deployed containerized services (Angular, PHP, phpMyAdmin, MySQL) for streamlined scalability and simplified updates.  
+- Integrated Jira Cloud API to automate issue creation directly from the UI, improving issue-tracking efficiency.
+
+## **Energy Brokerage Corporate Dashboard**
+
+## Angular 15, Firebase, OpenAI GPT
+
+- Designed and implemented a full-stack web app to track energy contracts and monitor client usage, providing real-time insights through dynamic data visualization.  
+- Employed Firebase for user authentication and authorization, ensuring secure, role-based access control.  
+- Leveraged OpenAI’s GPT API to forecast energy usage based on weather patterns, enabling proactive client engagement.
+
+## **Morse Code Beeper**
+
+## C++, Arduino
+
+- Programmed Arduino microcontrollers to communicate Morse code wirelessly, demonstrating creative solutions for local messaging in real-time environments.  
+- Implemented SPI-based transceiver modules for data exchange across multiple Arduinos, simulating a mesh-network environment.  
+- Integrated unique device identifiers (UIDs) for targeted message routing, akin to phone-number-based communication.
+
+---
+
+# **EDUCATION**
+
+## **Bachelor of Science in Computer Engineering**        Graduated December 2023
+
+## Florida Institute of Technology (Florida Tech)
