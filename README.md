@@ -1,56 +1,59 @@
-# MATTHEW DELGADO
-[LinkedIn](https://www.linkedin.com/in/mattdelg/) | [GitHub](https://github.com/matthewdelgado)  
+# Matthew Delgado
+Melbourne, FL | matthewdelgado.swe@gmail.com | linkedin.com/in/mattdelg/ | github.com/matthewdelgado  
 
-## SKILLS
-Languages & Frameworks: C++, Python, TypeScript, Node.js, PHP, HTML, SCSS, SQL
+## PROFESSIONAL EXPERIENCE
+### L3Harris Technologies                                                                                                                 
+**Senior Associate Software Engineer**                                                                                             
+- Provided technical leadership as Subject Matter Expert for a Python CSCI, guiding development strategy, planning, and execution.
+- Authored and standardized documentation for an undocumented internal Python-based testing product, ensuring knowledge retention across multiple engineering teams.
+- Built and delivered a Java mobile application proof of concept under aggressive time constraints to support a high-stakes customer demo, adapting UI/UX to align with systems requirements.
+### L3Harris Technologies                                                                                                                
+**Associate Software Engineer**                                                                                                                                                             
+- Designed and implemented real-time embedded software in C++ on Linux-based platforms for mission-critical defense systems, ensuring high performance and reliability under strict deadlines.
+- Developed a Python library that reduced development time of customer prototypes by 80%.
+- Received a Customer Recognition Award for delivering a Python solution that met all technical requirements unmet by competitors which resulted in millions of dollars in new program funding.
+### Up-Rev Inc.                                                                                                                                   
+**Software Engineer Intern**                                                                                                         
+- Developed a full-stack web application (Angular, PHP, MySQL) that automated project cost estimation and proposal generation, reducing manual quoting time by 75%.
+- Containerized and deployed the system locally using Docker (Angular, PHP, phpMyAdmin, MySQL), improving reliability and simplifying environment setup for new developers.
+- Partnered with stakeholders to translate business requirements into production-ready features, improving accuracy and consistency of project estimates.
+### L3Harris Technologies                                                                                                               
+**Software Engineer Intern**                                                                                                                  
+- Evaluated AI/ML techniques for real-world engineering applications, translating research findings into actionable recommendations aligned with business and system constraints.
+- Designed and prototyped a secure, on-premises Python/Streamlit AI assistant chatbot that automated technical documentation retrieval and improved engineering productivity.
+- Presented implementation strategies to senior leadership, securing project funding; the tool was deployed company-wide and is used daily by hundreds of employees.
+### IBM                                                                                                                                                            
+**Technical Solutions Engineer Intern**                                                                                                  
+- Led three live demonstrations of AI SaaS data management solutions to six technical leaders.
+- Earned 11 digital badges and completed 212+ hours of structured technical learning about AI Ops and cloud infrastructure.
+- Served in multiple leadership and service roles, leading architectural discussions, contributing to program improvements and peer success.
 
-Tools & Platforms: Conan, Docker, Git, Linux, Vim, FastAPI, Protobuf
-
-Databases & Cloud: MySQL, Firebase
-
-Other: Agile/Scrum (Jira), CI/CD (Jenkins, Ansible)  
-
-## EXPERIENCE
-
-**Associate Software Engineer | Feb 2024 – Present**
-L3Harris Technologies
-- Architect and develop real-time embedded software in C++ for mission-critical systems on Linux-based platforms, ensuring reliability and performance under strict deadlines.  
-- Led the design and implementation of five Python-based prototypes for prospective clients, collaborating cross-functionally to gather requirements and secure future funding.  
-- Improve code quality and maintainability through thorough testing, peer reviews, and automated pipelines, driving best practices that reduce defects and deployment time by 30%.
-
-**Software Engineer Intern | Jul 2023 – Jan 2024**
-Up-Rev Inc.
-- Maintained and enhanced a production web application used by senior managers for cost estimation, improving usability and performance to sustain high user satisfaction.  
-- Refactored the backend from a legacy PHP API to a Python-based RESTful API using FastAPI, boosting data processing speed by 25% and enabling broader system integrations.  
-- Created cross-platform, full-stack solutions using Angular, MySQL, PHP, and Docker, emphasizing responsive, user-centric design.  
-- Optimized CI/CD workflows through Jenkins and Ansible automation, cutting deployment times by 40% and minimizing downtime for business-critical services.
-
-**Software Engineer Intern | May 2023 – Jul 2023**
-L3Harris Technologies
-- Developed a Streamlit-based web application that interfaced with open-source large language models and incorporated internal data for better accuracy and AI-driven insights.  
-- Supervised an Agile project management workflow for a team of six interns, facilitating Jira-based sprint planning, tasks, and documentation to foster collaboration and timely deliverables.  
-- Actively researched and presented emerging AI technologies to stakeholders, championing new use cases for AI adoption within the organization.
-
-## PROJECTS
-**Project Management Web App**
-Angular 8, Docker, PHP, MySQL
+## PERSONAL PROJECTS
+### Project Management Web App
+**Angular 8, Docker, PHP, MySQL**
 - Built a full-stack application to estimate project costs and generate quotes/proposals, reducing manual effort by 50%.  
 - Deployed containerized services (Angular, PHP, phpMyAdmin, MySQL) for streamlined scalability and simplified updates.  
 - Integrated Jira Cloud API to automate issue creation directly from the UI, improving issue-tracking efficiency.
-
-**Energy Brokerage Corporate Dashboard**
-Angular 15, Firebase, OpenAI GPT
+### Energy Brokerage Corporate Dashboard
+**Angular 15, Firebase, OpenAI GPT**
 - Designed and implemented a full-stack web app to track energy contracts and monitor client usage, providing real-time insights through dynamic data visualization.  
 - Employed Firebase for user authentication and authorization, ensuring secure, role-based access control.  
 - Leveraged OpenAI’s GPT API to forecast energy usage based on weather patterns, enabling proactive client engagement.
-
-**Morse Code Beeper**
-C++, Arduino
+### Morse Code Beeper
+**C++, Arduino**
 - Programmed Arduino microcontrollers to communicate Morse code wirelessly, demonstrating creative solutions for local messaging in real-time environments.  
 - Implemented SPI-based transceiver modules for data exchange across multiple Arduinos, simulating a mesh-network environment.  
 - Integrated unique device identifiers (UIDs) for targeted message routing, akin to phone-number-based communication.
 
+## CORE SKILLS
+**Languages:** Python, C++, Java, TypeScript, SQL
+
+**Frameworks & Tools:** React, Angular, FastAPI, Node.js, Protocol Buffers, Git, Jenkins, Docker
+
+**Databases:** PostgreSQL, MySQL
+
+**Technical Sales:** Proof of Concept Development, Customer Demos, Stakeholder Communication
+
 ## EDUCATION
-**Bachelor of Science in Computer Engineering**        
+**Bachelor of Science (B.S.) in Computer Engineering**        
 Florida Institute of Technology (Florida Tech)
-Graduated December 2023
