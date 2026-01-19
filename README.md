@@ -1,5 +1,5 @@
 # Matthew Delgado
-Melbourne, FL | matthewdelgado.swe@gmail.com | linkedin.com/in/mattdelg/ | github.com/matthewdelgado  
+Melbourne, FL | [Email](matthewdelgado.swe@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mattdelg/)
 
 ## PROFESSIONAL EXPERIENCE
 ### L3Harris Technologies                                                                                                                 
