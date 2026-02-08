@@ -1,0 +1,123 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply antialiased;
+  }
+
+  body {
+    @apply bg-dark-bg text-dark-text-primary transition-colors duration-300;
+    font-feature-settings: "kern" 1, "liga" 1;
+  }
+
+  .light body {
+    @apply bg-light-bg text-light-text-primary;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Respect user's motion preferences */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  h1 {
+    @apply text-4xl font-bold mb-4;
+    letter-spacing: -0.02em;
+  }
+
+  h2 {
+    @apply text-3xl font-bold mb-3;
+    letter-spacing: -0.01em;
+  }
+
+  h3 {
+    @apply text-xl font-semibold mb-2;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent;
+  }
+
+  /* Light mode overrides */
+  .light .bg-dark-bg {
+    @apply bg-light-bg;
+  }
+
+  .light .bg-dark-surface {
+    @apply bg-light-surface;
+  }
+
+  .light .border-dark-border {
+    @apply border-light-border;
+  }
+
+  .light .text-dark-text-primary {
+    @apply text-light-text-primary;
+  }
+
+  .light .text-dark-text-secondary {
+    @apply text-light-text-secondary;
+  }
+
+  .light .text-dark-text-accent {
+    @apply text-light-text-accent;
+  }
+}
+
+/* Print Styles */
+@media print {
+  @page {
+    margin: 0.5in;
+  }
+
+  body {
+    @apply bg-white text-black;
+  }
+
+  nav,
+  .no-print {
+    display: none !important;
+  }
+
+  .print-break-inside-avoid {
+    break-inside: avoid;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #666;
+  }
+
+  /* Remove animations and transitions for print */
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+
+  /* Optimize colors for print */
+  .bg-gradient-to-r,
+  .bg-gradient-to-br {
+    background: none !important;
+    color: black !important;
+  }
+}
