@@ -16,7 +16,7 @@ function Experience({ items }: ExperienceProps) {
         className="text-center mb-16"
       >
         <h2 className="text-4xl md:text-5xl font-bold text-dark-text-primary mb-4">
-          Professional Journey
+          Professional Experience
         </h2>
         <p className="text-xl text-dark-text-secondary max-w-2xl mx-auto">
           Building mission-critical systems and innovative solutions across defense, AI, and full-stack development
