@@ -28,10 +28,10 @@ function Education({ items }: EducationProps) {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.5, delay: index * 0.1 }}
-            className="bg-gradient-to-br from-dark-surface to-dark-surface/50 border border-dark-border rounded-2xl p-8 hover:border-blue-500/50 transition-all duration-300 hover:shadow-xl hover:shadow-blue-500/10 print-break-inside-avoid"
+            className="bg-dark-surface border border-dark-border rounded-2xl p-8 hover:border-terminal-green/50 transition-all duration-300 hover:shadow-xl hover:shadow-terminal-green/10 print-break-inside-avoid"
           >
             <div className="flex items-start gap-4">
-              <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-blue-500 to-purple-500 flex items-center justify-center flex-shrink-0">
+              <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-terminal-green-dark to-terminal-green-light flex items-center justify-center flex-shrink-0">
                 <span className="text-2xl">🎓</span>
               </div>
               <div>

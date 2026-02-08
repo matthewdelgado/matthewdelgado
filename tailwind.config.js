@@ -8,6 +8,12 @@ export default {
   theme: {
     extend: {
       colors: {
+        terminal: {
+          green: '#00ff41',
+          'green-light': '#66ff66',
+          'green-dark': '#00cc33',
+          'green-glow': '#00ff4180',
+        },
         dark: {
           bg: '#0a0a0a',
           surface: '#1a1a1a',
@@ -15,17 +21,7 @@ export default {
           text: {
             primary: '#e5e5e5',
             secondary: '#a3a3a3',
-            accent: '#3b82f6',
-          }
-        },
-        light: {
-          bg: '#ffffff',
-          surface: '#f8f9fa',
-          border: '#e5e7eb',
-          text: {
-            primary: '#1a1a1a',
-            secondary: '#6b7280',
-            accent: '#3b82f6',
+            accent: '#00ff41',
           }
         }
       },

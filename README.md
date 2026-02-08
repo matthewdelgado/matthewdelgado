@@ -1,5 +1,6 @@
 # Matthew Delgado
-Melbourne, FL | [Email](matthewdelgado.swe@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mattdelg/) | [Portfolio](https://www.delgadomatthew.com)
+Melbourne, FL | [Email](matthewdelgado.swe@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mattdelg/) | [GitHub](https://github.com/matthewdelgado) | [Portfolio](https://www.delgadomatthew.com) | [Freelancer](https://www.freelancer.com/u/MatthewDelgado12?frm=MatthewDelgado12&sb=t)
+
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -49,6 +50,7 @@ Melbourne, FL | [Email](matthewdelgado.swe@gmail.com) | [LinkedIn](https://www.l
 **Sales Representative**
 - Recognized as the top performer for six straight months by consistently exceeding sales quotas, upselling premium plans, and maintaining high customer retention.
 
+
 ## PERSONAL PROJECTS
 
 ### NFC tag and QR Code Admin Dashboard
@@ -75,15 +77,17 @@ Melbourne, FL | [Email](matthewdelgado.swe@gmail.com) | [LinkedIn](https://www.l
 - Implemented SPI-based transceiver modules for data exchange across multiple Arduinos, simulating a mesh-network environment.  
 - Integrated unique device identifiers (UIDs) for targeted message routing, akin to phone-number-based communication.
 
+
 ## CORE SKILLS
 
 **Languages:** Python, C++, Java, TypeScript, SQL
 
-**Frameworks & Tools:** React, Angular, FastAPI, Node.js, Protocol Buffers, Git, Jenkins, Docker
+**Frameworks & Tools:** React, Angular, FastAPI, FastMCP, Node.js, Protocol Buffers, Git, Jenkins, Docker
 
 **Databases:** PostgreSQL, MySQL
 
 **Technical Sales:** Proof of Concept Development, Customer Demos, Stakeholder Communication
+
 
 ## EDUCATION
 

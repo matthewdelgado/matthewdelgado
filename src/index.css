@@ -8,16 +8,27 @@
   }
 
   body {
-    @apply bg-dark-bg text-dark-text-primary transition-colors duration-300;
+    @apply bg-dark-bg text-dark-text-primary;
     font-feature-settings: "kern" 1, "liga" 1;
-  }
-
-  .light body {
-    @apply bg-light-bg text-light-text-primary;
   }
 
   html {
     scroll-behavior: smooth;
+  }
+
+  /* Optimize rendering performance */
+  .group,
+  button,
+  a {
+    @apply will-change-auto;
+  }
+
+  /* Prevent flickering on scroll */
+  * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
   }
 
   /* Respect user's motion preferences */
@@ -49,32 +60,15 @@
 
 @layer utilities {
   .text-gradient {
-    @apply bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent;
+    @apply bg-gradient-to-r from-terminal-green-dark via-terminal-green to-terminal-green-light bg-clip-text text-transparent;
   }
 
-  /* Light mode overrides */
-  .light .bg-dark-bg {
-    @apply bg-light-bg;
-  }
-
-  .light .bg-dark-surface {
-    @apply bg-light-surface;
-  }
-
-  .light .border-dark-border {
-    @apply border-light-border;
-  }
-
-  .light .text-dark-text-primary {
-    @apply text-light-text-primary;
-  }
-
-  .light .text-dark-text-secondary {
-    @apply text-light-text-secondary;
-  }
-
-  .light .text-dark-text-accent {
-    @apply text-light-text-accent;
+  /* Performance: GPU acceleration for smooth animations */
+  .transform,
+  .hover\:scale-105,
+  .hover\:-translate-y-1 {
+    transform: translateZ(0);
+    will-change: transform;
   }
 }
 

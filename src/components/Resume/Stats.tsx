@@ -26,9 +26,9 @@ function Stats({ stats }: StatsProps) {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.5, delay: index * 0.1 }}
-              className="bg-gradient-to-br from-dark-surface to-dark-surface/50 border border-dark-border rounded-2xl p-6 text-center hover:border-blue-500/50 transition-all duration-300 hover:shadow-xl hover:shadow-blue-500/10"
+              className="bg-dark-surface border border-dark-border rounded-2xl p-6 text-center hover:border-terminal-green/50 transition-all duration-300 hover:shadow-xl hover:shadow-terminal-green/10"
             >
-              <div className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent mb-2">
+              <div className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-terminal-green-dark to-terminal-green-light bg-clip-text text-transparent mb-2">
                 {value}{item.suffix}
               </div>
               <div className="text-sm md:text-base text-dark-text-secondary font-medium">

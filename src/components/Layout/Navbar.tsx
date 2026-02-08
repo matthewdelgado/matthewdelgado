@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react'
 import type { Section } from '../../types/resume'
-import ThemeToggle from '../ThemeToggle'
 
 interface NavbarProps {
   sections: Section[]
@@ -63,7 +62,7 @@ function Navbar({ sections, name }: NavbarProps) {
     <nav
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
         isScrolled
-          ? 'bg-dark-bg/80 backdrop-blur-lg border-b border-dark-border shadow-lg'
+          ? 'bg-dark-bg/95 border-b border-dark-border shadow-lg'
           : 'bg-transparent'
       }`}
     >
@@ -72,7 +71,7 @@ function Navbar({ sections, name }: NavbarProps) {
           {/* Logo/Name */}
           <button
             onClick={scrollToTop}
-            className="text-xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent hover:from-blue-300 hover:to-purple-300 transition-all duration-300"
+            className="text-xl font-bold bg-gradient-to-r from-terminal-green-dark to-terminal-green-light bg-clip-text text-transparent hover:from-terminal-green hover:to-terminal-green-light transition-all duration-300"
           >
             {name}
           </button>
@@ -85,19 +84,17 @@ function Navbar({ sections, name }: NavbarProps) {
                 onClick={() => scrollToSection(section.id)}
                 className={`px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
                   activeSection === section.id
-                    ? 'bg-blue-600/20 text-blue-400'
+                    ? 'bg-terminal-green/20 text-terminal-green'
                     : 'text-dark-text-secondary hover:text-dark-text-primary hover:bg-dark-surface'
                 }`}
               >
                 {section.title}
               </button>
             ))}
-            <ThemeToggle />
           </div>
 
           {/* Mobile controls */}
           <div className="md:hidden flex items-center gap-2">
-            <ThemeToggle />
             <button
               onClick={() => setIsOpen(!isOpen)}
               className="p-2 rounded-lg text-dark-text-secondary hover:text-dark-text-primary hover:bg-dark-surface transition-colors"
@@ -125,7 +122,7 @@ function Navbar({ sections, name }: NavbarProps) {
 
       {/* Mobile Navigation */}
       {isOpen && (
-        <div className="md:hidden bg-dark-surface/95 backdrop-blur-lg border-b border-dark-border">
+        <div className="md:hidden bg-dark-surface/95 border-b border-dark-border">
           <div className="px-4 py-4 space-y-2">
             {sections.map((section) => (
               <button
@@ -133,7 +130,7 @@ function Navbar({ sections, name }: NavbarProps) {
                 onClick={() => scrollToSection(section.id)}
                 className={`block w-full text-left px-4 py-3 rounded-lg text-sm font-medium transition-all duration-200 ${
                   activeSection === section.id
-                    ? 'bg-blue-600/20 text-blue-400'
+                    ? 'bg-terminal-green/20 text-terminal-green'
                     : 'text-dark-text-secondary hover:text-dark-text-primary hover:bg-dark-bg'
                 }`}
               >

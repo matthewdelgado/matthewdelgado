@@ -2,11 +2,11 @@ import { resumeData } from '../../utils/markdownParser'
 import SEO from '../SEO'
 import Navbar from '../Layout/Navbar'
 import Header from './Header'
-import Stats from './Stats'
 import Experience from './Experience'
 import Projects from './Projects'
 import Skills from './Skills'
 import Education from './Education'
+import ObfuscatedEmailLink from '../ObfuscatedEmailLink'
 
 function Resume() {
   // Create a map of section titles to their IDs
@@ -26,7 +26,6 @@ function Resume() {
 
       <div className="space-y-32">
         <Header name={resumeData.name} contact={resumeData.contact} />
-        <Stats stats={resumeData.stats} />
 
         {sectionMap.experience && (
           <div id={sectionMap.experience}>
@@ -61,12 +60,12 @@ function Resume() {
             Open to new opportunities and exciting projects
           </p>
           {resumeData.contact.email && (
-            <a
-              href={`mailto:${resumeData.contact.email}`}
-              className="inline-block px-8 py-4 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-500 hover:to-purple-500 text-white font-semibold rounded-xl transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-blue-500/50"
+            <ObfuscatedEmailLink
+              email={resumeData.contact.email}
+              className="inline-block px-8 py-4 bg-gradient-to-r from-terminal-green-dark to-terminal-green hover:from-terminal-green hover:to-terminal-green-light text-black font-semibold rounded-xl transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-terminal-green/30"
             >
               Get in Touch
-            </a>
+            </ObfuscatedEmailLink>
           )}
         </footer>
       </div>
