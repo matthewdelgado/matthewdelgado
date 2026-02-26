@@ -53,28 +53,46 @@ Melbourne, FL | [Email](matthewdelgado.swe@gmail.com) | [LinkedIn](https://www.l
 
 ## PERSONAL PROJECTS
 
+### BeaconBot
+**Cloudflare Workers, Supabase, React, TypeScript, OAuth**
+- Free uptime monitoring service with multi-region health checks from the edge.
+- Smart alerting with Discord & email notifications and beautiful public status pages.
+- [beaconbot.xyz](https://thebeaconbot.com)
+
+### PromoTap
+**React, Vite, Tailwind, SQLite, TypeScript**
+- NFC tag and QR code management platform with sub-10ms redirects.
+- Real-time tap & scan analytics with instant destination URL updates.
+- [promotap.xyz](https://promotap.app)
+
+### ScalarTek
+**Web Development, SEO, Brand Strategy, AI Integration**
+- Digital agency delivering end-to-end digital transformation for businesses.
+- 3x organic traffic growth and +40% conversion rate improvements for clients.
+- [scalartek.com](https://scalartek.com)
+
 ### NFC tag and QR Code Admin Dashboard
 **React, Vite, Tailwind, SQLite**
 - NFC tags and QR codes are written with ambiguous URLs that redirect users to an admin-specified URL in <10ms.
 - Each NFC tap and QR scan logs analytics asynchronously.
-- Tags and Codes update instantly when admins change the destination URL.  
+- Tags and Codes update instantly when admins change the destination URL.
 
 ### Project Management Web App
 **Angular, Docker, PHP, MySQL**
-- Built a full-stack application to estimate project costs and generate quotes/proposals, reducing manual effort by 50%.  
-- Deployed containerized services (Angular, PHP, phpMyAdmin, MySQL) for streamlined scalability and simplified updates.  
+- Built a full-stack application to estimate project costs and generate quotes/proposals, reducing manual effort by 50%.
+- Deployed containerized services (Angular, PHP, phpMyAdmin, MySQL) for streamlined scalability and simplified updates.
 - Integrated Jira Cloud API to automate issue creation directly from the UI, improving issue-tracking efficiency.
 
 ### Energy Brokerage Corporate Dashboard
 **Angular, Firebase, OpenAI GPT**
-- Designed and implemented a full-stack web app to track energy contracts and monitor client usage, providing real-time insights through dynamic data visualization.  
-- Employed Firebase for user authentication and authorization, ensuring secure, role-based access control.  
-- Leveraged OpenAI’s GPT API to forecast energy usage based on weather patterns, enabling proactive client engagement.
+- Designed and implemented a full-stack web app to track energy contracts and monitor client usage, providing real-time insights through dynamic data visualization.
+- Employed Firebase for user authentication and authorization, ensuring secure, role-based access control.
+- Leveraged OpenAI's GPT API to forecast energy usage based on weather patterns, enabling proactive client engagement.
 
 ### Morse Code Beeper
 **C++, Arduino**
-- Programmed Arduino microcontrollers to communicate Morse code wirelessly, demonstrating creative solutions for local messaging in real-time environments.  
-- Implemented SPI-based transceiver modules for data exchange across multiple Arduinos, simulating a mesh-network environment.  
+- Programmed Arduino microcontrollers to communicate Morse code wirelessly, demonstrating creative solutions for local messaging in real-time environments.
+- Implemented SPI-based transceiver modules for data exchange across multiple Arduinos, simulating a mesh-network environment.
 - Integrated unique device identifiers (UIDs) for targeted message routing, akin to phone-number-based communication.
 
 
@@ -91,5 +109,5 @@ Melbourne, FL | [Email](matthewdelgado.swe@gmail.com) | [LinkedIn](https://www.l
 
 ## EDUCATION
 
-**Bachelor of Science (B.S.) in Computer Engineering**        
+**Bachelor of Science (B.S.) in Computer Engineering**
 Florida Institute of Technology (Florida Tech)

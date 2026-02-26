@@ -1,14 +1,13 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Layout from './components/Layout/Layout'
-import ResumePage from './pages/ResumePage'
+import HomePage from './pages/HomePage'
 
 function App() {
   return (
     <BrowserRouter>
       <Layout>
         <Routes>
-          <Route path="/" element={<ResumePage />} />
-          {/* Future: <Route path="/projects" element={<ProjectsPage />} /> */}
+          <Route path="/" element={<HomePage />} />
         </Routes>
       </Layout>
     </BrowserRouter>

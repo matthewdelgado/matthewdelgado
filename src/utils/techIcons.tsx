@@ -13,6 +13,13 @@ import {
   SiFirebase,
   SiPhp,
   SiArduino,
+  SiCloudflare,
+  SiSupabase,
+  SiSqlite,
+  SiVite,
+  SiTailwindcss,
+  SiFastapi,
+  SiJenkins,
 } from 'react-icons/si'
 import { FaJava } from 'react-icons/fa'
 import { IconType } from 'react-icons'
@@ -26,24 +33,33 @@ const techIconMap: Record<string, IconType> = {
   typescript: SiTypescript,
   javascript: SiJavascript,
   php: SiPhp,
+  sql: SiPostgresql,
 
   // Frameworks & Libraries
   react: SiReact,
   angular: SiAngular,
   'node.js': SiNodedotjs,
   nodejs: SiNodedotjs,
+  fastapi: SiFastapi,
+  vite: SiVite,
+  tailwind: SiTailwindcss,
 
   // Tools
   docker: SiDocker,
   git: SiGit,
+  jenkins: SiJenkins,
 
   // Databases
   mysql: SiMysql,
   postgresql: SiPostgresql,
   postgres: SiPostgresql,
+  sqlite: SiSqlite,
 
-  // Platforms
+  // Cloud & Platforms
   firebase: SiFirebase,
+  supabase: SiSupabase,
+  'cloudflare workers': SiCloudflare,
+  cloudflare: SiCloudflare,
   arduino: SiArduino,
 }
 
