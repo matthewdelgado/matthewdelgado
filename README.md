@@ -44,7 +44,8 @@ Software engineer and founder with 2+ years across defense embedded systems, ful
 
 * Evaluated AI/ML techniques for engineering applications, then designed and prototyped a secure on-premises Python/Streamlit AI assistant that automated technical documentation retrieval.
 * Presented the implementation strategy to senior leadership, secured project funding, and saw the tool **deployed company-wide to hundreds of daily users**.
-* 
+
+---
 
 ## PERSONAL PROJECTS
 
